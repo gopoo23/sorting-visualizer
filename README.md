@@ -7,6 +7,8 @@ Sorting visualizer is a web application created with the help of HTML, CSS, Java
 I made this sorting visualizer web application to improve my skills more in
 HTML, CSS, and JS. And to help the beginners in programming to gain more knowledge and understanding on sorting algorigthms by visualizing them.
 
+**Demo-** [Live](https://gopoo23.github.io/sorting-visualizer/)
+
 **Connect-** [LinkedIn](https://www.linkedin.com/in/gourab-das23/)
 
 # What the Sorting algorithms inside this application
